@@ -1,0 +1,20 @@
+<package>
+  <description brief="ROSpberryCar_msp_remote">
+
+     ROSpberryCar_msp_remote
+
+  </description>
+  <author>João Sousa</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ROSpberryCar_msp_remote</url>
+  <depend package="roscpp"/>
+  <depend package="cereal_port"/>
+  
+  <msgs>
+	msg/car_msg.msg
+  </msgs>
+
+</package>
+
+
